@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    {
+      "id": "EUBoJpPdzic",
+      "taskName": "Buy Grocery Items",
+      "description": "Purchase vegetables, fruits, milk, and other weekly essentials from the supermarket.",
+      "status": "Pending",
+      "priority": "High",
+      "dueDate": "2026-07-01"
+    },
+    {
+      "id": "KrTmXvQnLpw",
+      "taskName": "Morning Exercise Routine",
+      "description": "Complete a 30-minute workout including jogging, stretching, and light cardio exercises.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2026-07-02"
+    },
+    {
+      "id": "WsPyFhCjNaZ",
+      "taskName": "Clean the House",
+      "description": "Sweep and mop the floors, dust the furniture, and organize all rooms before the weekend.",
+      "status": "Pending",
+      "priority": "Medium",
+      "dueDate": "2026-07-05"
+    },
+    {
+      "taskName": "Pay Monthly Bills",
+      "description": "Clear electricity, water, and internet bills before the due date to avoid late fees.",
+      "priority": "Medium",
+      "status": "Completed",
+      "dueDate": "2026-06-30",
+      "id": "MbDkRuGqYeV"
+    },
+    {
+      "id": "HnZtOcIwBsJ",
+      "taskName": "Plan Weekend Trip",
+      "description": "Research destinations, book accommodation, and prepare a travel itinerary for the family trip.",
+      "status": "In Progress",
+      "priority": "Low",
+      "dueDate": "2026-07-10"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
